@@ -13,3 +13,4 @@
 |Louisville|Joshua Taylor|"Louisville, Kentucky, USA"||@louposh|contact@louposh.org|
 |Virtual|Joel Bennett|Virtual (Online - No Physical Location)|https://slack.poshcode.org||Jaykul@HuddledMasses.org|
 |Romania|Sorin Pasa|"Bucharest, Romania"|https://www.meetup.com/Romanian-PowerShell-User-Group/|@ROMANIAPUG|romaniapug@yahoo.com|
+|MidMo|Josh Rickard|"Columbia, Missouri, USA"|https://www.eventbrite.com/e/midmo-powershell-user-group-tickets-22516367060#|@MidMoPowerShell|midmo-powershell@googlegroups.com|
